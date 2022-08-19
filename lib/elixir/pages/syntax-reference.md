@@ -80,7 +80,7 @@ Both keyword lists (list of two-element tuples where the first element is atom) 
 
 ### Structs
 
-Structs built on the map syntax by passing the struct name between `%` and `{`. For example, `%User{...}`.
+Structs are built on the map syntax by passing the struct name between `%` and `{`. For example, `%User{...}`.
 
 ## Expressions
 
